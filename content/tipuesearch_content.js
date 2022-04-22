@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲: https://github.com/s40723239/wcm2022.git \n \n \n \n \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲: https://github.com/s40723239/wcm2022.git \n', 'tags': '', 'url': 'About.html'}, {'title': 'Midterm', 'text': '配合 Wink 檔案將 js 檔案設定如下 \n \n  接下來將 mp4 檔案從 downloads 目錄取出  \n \n \n \n   \n \n \n \n \n \n \n \n', 'tags': '', 'url': 'Midterm.html'}]};
