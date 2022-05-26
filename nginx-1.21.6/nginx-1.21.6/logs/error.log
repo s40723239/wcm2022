@@ -1,0 +1,1 @@
+2022/04/29 10:48:18 [error] 2984#4620: *1 CreateFile() "E:\mde.tw\portable_python_wcm2022\compile_copsim_wcm2022\data\tmp\wcm2022\nginx-1.21.6\nginx-1.21.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
